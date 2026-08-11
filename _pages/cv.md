@@ -14,7 +14,7 @@ Education
 * Ph.D in Computer Science, University at Buffalo, 2024-2026
 * Ph.D in Computer Science, Washington State University, 2020-2024 
 * M.S. in Computer Science, Washington State University, 2018-2020
-* B.S. in Automation, South China University of Technology, 2014-2018, GPT:3.27
+* B.S. in Automation, South China University of Technology, 2014-2018, GPA: 3.27
 
 Selected Publications
 ======
