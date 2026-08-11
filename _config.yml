@@ -11,9 +11,9 @@ title                    : "Yu Nong"
 title_separator          : " "
 name                     : &name "Yu Nong"
 description              : &description "PhD student"
-url                      : https://young-nong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yunong2797-tech.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "young-nong.github.io"
+repository               : "yunong2797-tech.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Yu Nong"
-  avatar           : "BZ1905171115200463.jpg"
+  avatar           : ""
   bio              : "PhD student"
   location         : "Buffalo, NY, USA"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=ypUHqG8AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=2rN7p28AAAAJ"
   email            : "yunong@buffalo.edu"
   researchgate     : 
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yu-nong"
+  linkedin         : ""
   orcid            :
   pinterest        :
   soundcloud       :
