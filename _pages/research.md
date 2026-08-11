@@ -7,29 +7,29 @@ redirect_from:
   - /research
 ---
 
-My research lies at the intersection of Software Engineering, Software Security, and Artificial Intelligence. I develop data-centric and AI-assisted techniques for software vulnerability detection, classification, repair, benchmarking, and security dataset construction.
+My research broadly lies in Software Engineering, with interests in program analysis, software testing, bug detection and repair, software reliability, and software data quality. I study practical and data-driven approaches for understanding, evaluating, and improving complex software systems.
 
 # Research Interests
 
-- AI for software vulnerability analysis
-- LLM-based vulnerability detection, reasoning, and repair
-- Security dataset generation, quality, and benchmarking
-- Program analysis for software security
-- Proof-of-vulnerability generation and patch validation
+- Software engineering and program analysis
+- Software testing, debugging, and repair
+- Bug and vulnerability detection
+- Software reliability and quality assurance
+- Software data generation and benchmarking
 - Empirical software engineering and open science
 
-# Research Projects:
+# Research Projects
 
-**Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Analysis** \
-Timely and effective vulnerability detection and patching is essential for cybersecurity defense, for which various approaches have been proposed yet still struggle to detect and patch vulnerabilities effectively for real-world projects. In this project, we explore how to leverage large language models and in-context learning to address key software vulnerability analysis tasks: identifying given types of vulnerabilities, discovering vulnerabilities of any type, and patching detected vulnerabilities.
+**Software Defect Analysis and Repair** \
+Detecting and repairing software defects remains an important challenge in software engineering. In this line of work, we investigate automated approaches for identifying different types of software defects, reasoning about their causes and locations, and generating candidate repairs. Our studies explore the use of program information, data-driven methods, and modern software analysis techniques for improving the effectiveness of defect analysis on real-world software systems.
 
-**Automatically Generating Realistic Vulnerabilities for Vulnerability Analysis** \
-Large-scale and realistic vulnerability datasets are essential for both benchmarking existing techniques and developing effective data-driven approaches for software security. In this project, we explore how to automatically generate realistic vulnerabilities by injecting vulnerabilities to the widely available real-world normal programs, through deep learning-based and pattern-based code editors.
+**Realistic Software Data Generation for Program Analysis** \
+Large-scale and realistic datasets are important for evaluating software analysis techniques and developing data-driven approaches. In this project, we study how realistic software defects and program variants can be generated from existing real-world programs through program transformations, learned editing patterns, and automated analysis. We also investigate the quality and usefulness of generated data for downstream software analysis tasks.
 
-**On the Open Science of Deep Learning-Based Vulnerability Detection** \
-Open science is a practice that makes scientific research publicly accessible to anyone, hence is highly beneficial. Given that an increasing number of deep learning-based vulnerability detection approaches are explored, we exhaustively search the literature in this area and comprehensively investigate the four integral aspects of open science: availability, executability, reproducibility, and replicability.
+**Empirical Evaluation of Software Analysis Techniques** \
+Software analysis tools can exhibit substantially different behavior across programs, datasets, and evaluation settings. We conduct empirical studies to understand the effectiveness, limitations, and practical characteristics of different software analysis approaches. This work includes systematic benchmarking, reproducibility studies, dataset analysis, and investigation of factors that influence experimental results.
 
-**Evaluating and Comparing Memory Error Vulnerability Detectors** \
-Memory error vulnerabilities have been consequential and several well-known, open-source memory error vulnerability detectors exist, built on static and/or dynamic code analysis. In this project, we conduct an empirical study that evaluates and compares state-of-the-art memory error vulnerability detectors against publicly available benchmark datasets of C/C++ programs, with case studies to gain in-depth explanations of successes and failures of individual tools.
+**Evaluating and Comparing Memory Error Detection Techniques** \
+Memory errors remain an important source of software defects in C and C++ programs. In this project, we evaluate and compare open-source memory error detection techniques based on static and dynamic program analysis. Using publicly available benchmark programs and detailed case studies, we investigate the strengths and limitations of individual tools and analyze the conditions under which different techniques succeed or fail.
 
 
