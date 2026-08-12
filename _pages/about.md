@@ -13,8 +13,13 @@ My research broadly lies in Software Engineering, with interests in program anal
 
 # News
 
-- **04/2026:** I successfully defended my **Ph.D. dissertation** at the University at Buffalo.
-- **08/2025:** I received a student travel grant from **USENIX Security 2025**.
-- **04/2025:** I received a travel grant from **IEEE S&P 2025**.
-- **04/2024:** I received the **RA Award** from the School of Electrical Engineering and Computer Science at Washington State University.
-- **05/2021:** Our paper *Evaluating and Comparing Memory Error Vulnerability Detectors* was accepted to **Information and Software Technology**.
+- **04/2026:** I successfully defended my Ph.D. dissertation at the University at Buffalo.
+- **01/2026:** Our paper *VulScribeR: Exploring RAG-based Vulnerability Augmentation with LLMs* was published in **ACM Transactions on Software Engineering and Methodology**.
+- **08/2025:** I received a student travel grant for attending **USENIX Security 2025** in Seattle, WA.
+- **04/2025:** I received a travel grant for attending **IEEE S&P 2025**.
+- **07/2024:** Our paper *Learning to Detect and Localize Multilingual Bugs* was published in the **Proceedings of the ACM on Software Engineering**.
+- **04/2024:** I received the **Research Assistant Award** from the School of Electrical Engineering and Computer Science at Washington State University.
+- **08/2023:** Our book chapter *Generating Vulnerable Code via Learning-Based Program Transformations* was published in **AI Embedded Assurance for Cyber Systems**.
+- **09/2022:** Our paper *Open Science in Software Engineering: A Study on Deep Learning-Based Vulnerability Detection* was published in **IEEE Transactions on Software Engineering**.
+- **04/2020:** I successfully defended my M.S. thesis at Washington State University.
+- **02/2020:** Our paper *A Preliminary Study on Open-Source Memory Vulnerability Detectors* was published at the **IEEE International Conference on Software Analysis, Evolution and Reengineering**.
